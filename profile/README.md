@@ -1,5 +1,5 @@
-![TroploPrivateUploader Banner](https://i.troplo.com/i/9ea16d8ab178.png)
+![Flowinity Banner](https://i.troplo.com/i/cc7ba831c18a.png)
 
-# TroploPrivateUploader
+# Flowinity
 
-This is the organization for TPU. Visit the <a href="https://github.com/PrivateUploader/PrivateUploader">repository</a>.
+This is the organization for Flowinity. Visit the <a href="https://github.com/Flowinity/Flowinity">repository</a>.
